@@ -21,9 +21,6 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y1LQk44.png" group-title="INDONESIA",Aniplus (Opt-2)
 http://45.126.83.51/dr9445/h/h02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WhFh4HV.png" group-title="INDONESIA",ANTV
-http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QrmRJDw.png" group-title="INDONESIA",Arek TV
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 
@@ -89,9 +86,6 @@ http://45.126.83.51/qwr9ew/s/s13/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="INDONESIA",DAAI TV (Opt-2)
 http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HcXQvmc.png" group-title="INDONESIA",Dangdutz
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="INDONESIA",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -312,35 +306,11 @@ http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4WPjrg6.png" group-title="INDONESIA",RBTV Bengkulu
 http://stream1.ninmedia.tv/rbtv/rtmp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDONESIA",RCTI (Opt-1)
-http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDONESIA",RCTI (Opt-2) 
-https://edge.okezone.com/live/rctioke.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDONESIA",RCTI (Opt-3)
-http://id6.indostreamingtv.com/live/rcti/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ANiUsNh.png" group-title="INDONESIA",RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pvsew2t.png" group-title="INDONESIA",Rumah TV
 https://video2.onlivestreaming.net/rumahtv/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PzFG6eS.png" group-title="INDONESIA",SBCTV Jatim
-http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDONESIA",SCTV (Opt-1)
-http://202.80.222.182/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDONESIA",SCTV (Opt-2)
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDONESIA",SCTV (Opt-3)
-http://210.210.155.35/qwr9ew/s/s103/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDONESIA",SCTV (Opt-4)
-http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AP5JfCM.png" group-title="INDONESIA",Sony Gem (Opt-1)
 http://210.210.155.35/session/f438f266-7bf0-11e8-b712-b82a72d63267/uq2663/h/h19/index1.m3u8
