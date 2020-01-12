@@ -21,44 +21,14 @@ http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYDEkwE.png" group-title="INDONESIA",AXN
 http://45.126.83.51/dr9445/h/h09/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PjdInOj.png" group-title="INDONESIA",Bali TV
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dX3GwdQ.png" group-title="INDONESIA",Bengkulu Ekspress TV
-http://stream1.ninmedia.tv/betv/rtmp.stream_360p/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hDU5TJV.png" group-title="INDONESIA",BeritaSatu World (Opt-1)
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hDU5TJV.png" group-title="INDONESIA",BeritaSatu World (Opt-2)
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hDU5TJV.png" group-title="INDONESIA",BeritaSatu World (Opt-3)
-http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hDU5TJV.png" group-title="INDONESIA",BeritaSatu World (Opt-4)
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7RKQpQ.png" group-title="INDONESIA",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="INDONESIA",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="INDONESIA",DAAI TV (Opt-1)
-http://45.126.83.51/qwr9ew/s/s13/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EnrG4zA.png" group-title="INDONESIA",DAAI TV (Opt-2)
-http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="INDONESIA",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvE0OeL.png" group-title="INDONESIA",Global TV (Opt-1)
-http://202.80.222.182:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvE0OeL.png" group-title="INDONESIA",Global TV (Opt-2)
-http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvE0OeL.png" group-title="INDONESIA",Global TV (Opt-3)
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
@@ -126,9 +96,6 @@ http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iGxIDsI.png" group-title="INDONESIA",K Plus (Opt-1)
 http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BzbBDbn.png" group-title="INDONESIA",Karaoke Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvE8wtl.png" group-title="INDONESIA",Kitanesia
 http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 
@@ -137,12 +104,6 @@ http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ory3MhB.png" group-title="INDONESIA",Kompas (Opt-2)
 http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5RU16OW.png" group-title="INDONESIA",Madu TV
-https://5bb648ab35ae7.streamlock.net/madufm/live/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3GBgEQD.png" group-title="INDONESIA",Maleo
-http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GB6gAEG.png" group-title="INDONESIA",MetroTV (Opt-1)
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
@@ -287,7 +248,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI Jawa Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(03)/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI Jawa Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
  
